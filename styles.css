@@ -1,6 +1,6 @@
 body {
   
-       background-color:grey;opacity:2;
+       background-color:#808080;opacity:2;
        text-align:center;
        font-family: Arial, sans-serif;
        font-size: 20px;
@@ -33,7 +33,7 @@ h1 {
 h2 {
   
   font-family:'Dancing Script';
-  color:maroon;opacity:2;
+  color:#800000;opacity:2;
   margin-top:0;
 
   }
@@ -60,7 +60,7 @@ h2 {
     opacity:2;
     border-radius:5px;
     background-color:#800000;
-    color:white;
+    color:#FFFFFF;
     width: 100px;
    
 
