@@ -32,15 +32,15 @@ h2 {
 
   }
 
-.image {
+ .image {
            width:300px;
            height:300px;
-           padding-left: 100px;
-           padding-right: 120px;
+           padding-left:162px;
+           padding-right:300px;
            padding-top:0px;
            padding-bottom:0px;
            
-        }
+        }            
 
 .btn {
     float:left
