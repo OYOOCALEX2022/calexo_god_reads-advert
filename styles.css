@@ -9,29 +9,23 @@ body {
 
 h1 {
 
-  font-family: 'Dancing Script';font-size: 50px;
+  font-family: 'Dancing Script'; font-size: 50px;
   color:#800000;opacity:2;
   margin-bottom:0;
   text-align:center;
-
+  margin-top: 0;
    }
-   
-  h3 {
-   
-       font-size: 43px;
-   
-       font-family: 'Dancing Script';font-size: 22px;
-   
-    }
 
   
-h2 {
-  
-  font-family:'Dancing Script';
-  color:#800000;opacity:2;
-  margin-top:0;
-  text-align: center;
-  }
+p {
+
+  font-family: 'Dancing Script';
+  color:#800000;opacity:2.5;
+  margin-bottom:0;
+  text-align:center;
+  margin-top: 0;
+  margin-left:250px;
+}
 
  .image {
 
@@ -45,12 +39,13 @@ h2 {
         }            
 
 .btn {
+
     margin-left: 10px;
     float:left;
     height:50px;
-    margin-top:200px;
-    margin-bottom:70px;
-    margin:5px;
+    margin-top:50px;
+    margin-bottom:100px;
+    margin:20px;
     font-size:20px;
     font-weight:light;
     border:5px solid #800000; 
@@ -58,16 +53,12 @@ h2 {
     border-radius:5px;
     background-color:#800000;
     color:#FFFFFF;
-    width: 100px;
-   
-
-  }
+    width:100px;
+   }
 
   .text {
-  
     margin-left: 70px;
     position: absolute;
-    margin-top: -278px;
+    margin-top: -300px;
     margin-left: 680px;
-
   }
