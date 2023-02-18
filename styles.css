@@ -1,6 +1,6 @@
 body {
   
-       background-color:white;opacity:2;
+       background-color:burlywood;opacity:2;
        text-align:center;
        font-family: Arial, sans-serif;
        font-size: 20px;
@@ -60,5 +60,5 @@ p {
     margin-left: 70px;
     position: absolute;
     margin-top: -300px;
-    margin-left: 680px;
+    margin-left: 625px;
   }
