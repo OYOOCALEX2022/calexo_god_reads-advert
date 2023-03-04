@@ -5,7 +5,7 @@ body {
    }
 
        h1 {
-        font-family:Qwitcher Grypen;font-size: 50px;
+        font-family:Qwitcher Grypen;font-size: 60px;
         color:yellow;opacity:1;
         margin-bottom:0px;
         text-align:center;
@@ -22,17 +22,18 @@ h2 {
    }
 
  
+   .image {
 
- .image {
+    width:300px;
+    height:300px;
+    padding-left:162px;
+    padding-right:300px;
+    padding-top:0px;
+    padding-bottom:0px;
+    
+ }            
 
-           width:300px;
-           height:300px;
-           padding-left:162px;
-           padding-right:300px;
-           padding-top:0px;
-           padding-bottom:0px;
-           
-        }            
+        
 
 .btn {
 
