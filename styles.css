@@ -1,5 +1,5 @@
 body {
-  background-color:#000;opacity:2;
+  background-color:black;opacity:2;
 
   text-align:center;
 
@@ -11,6 +11,8 @@ body {
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
+        padding-left:7px;
+        
          }  
 
 h2 {
