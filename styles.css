@@ -1,13 +1,13 @@
 body {
-  background-color:black;opacity:2;
+  background-color:whitesmoke;opacity:2;
 
   text-align:center;
 
    }
 
        h1 {
-        font-family:Qwitcher Grypen;font-size: 65px;
-        color:lightblue;opacity:1;
+        font-family:Qwitcher Grypen;font-size:57px;
+        color:black;opacity:1;
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
@@ -17,7 +17,7 @@ body {
 
 h2 {
   font-family:Qwitcher Grypen;font-size:38px;
-  color:lightblue;opacity:1;
+  color:black;opacity:1;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
@@ -31,10 +31,13 @@ h2 {
     height:300px;
     padding-left:162px;
     padding-right:300px;
-    padding-top:0px;
+    padding: top -0.00px;
     padding-bottom:0px;
     
  }            
+ img {
+  opacity: 2.5;
+}
 
         
 
@@ -48,11 +51,11 @@ h2 {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid lightblue;
+    border:5px solid black;
     opacity:2;
-    border-radius:5px lightblue;
-    background-color:lightblue;
-    color:#000;
+    border-radius:5px black;
+    background-color :black;
+    color:white;
     opacity: 2;
     width:100px;
    }
@@ -61,7 +64,7 @@ h2 {
 
     font-family:"Dancing Script";
     position: absolute;
-    margin-top: -332px;
+    margin-top: -334px;
     margin-left: 615px;
 
   }
