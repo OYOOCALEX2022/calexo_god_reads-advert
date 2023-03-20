@@ -1,13 +1,13 @@
 body {
-  background-color:burlywood;opacity:2;
+  background-color:burlywood; opacity:1;
 
   text-align:center;
 
    }
 
        h1 {
-        font-family:Qwitcher Grypen;font-size:57px;
-        color:black;opacity:1;
+        font-family:Qwitcher Grypen;font-size:60px;
+        color:maroon;opacity:1;
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
@@ -16,8 +16,8 @@ body {
          }  
 
 h2 {
-  font-family:Qwitcher Grypen;font-size:38px;
-  color:black;opacity:1;
+  font-family:Qwitcher Grypen;font-size:45px;
+  color:maroon;opacity:1;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
@@ -55,7 +55,7 @@ h2 {
     opacity:2;
     border-radius:5px white;
     background-color :white;
-    color:black;
+    color:maroon;
     opacity: 2;
     width:100px;
    }
