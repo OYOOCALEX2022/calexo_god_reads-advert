@@ -1,18 +1,18 @@
 body {
-
-  background-color:maroon; opacity:2;
-
+  background-color:rgba(55, 64, 85, 0.9);opacity:2;
+  font-family: "Open Sans", sans-serif;
   text-align:center;
-
-   }
+  
+}
 
   h1 {
         font-family:Qwitcher Grypen;font-size:60px;
-        color:white;opacity:2;
+        color:white;opacity: 2;
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
         padding-left:5px;
+        background: transparent;
       }  
 
 h2 {
@@ -51,9 +51,9 @@ h2 {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid maroon;
+    border:5px solid white;
     opacity:2;
-    border-radius:5px solid maroon;
+    border-radius:5px solid white;
     background-color :marron;
     color:maroon;
     opacity: 2;
@@ -65,6 +65,6 @@ h2 {
     font-family:"Dancing Script";
     position: absolute;
     margin-top: -334px;
-    margin-left: 615px;
+    margin-left: 628px;
 
   }
