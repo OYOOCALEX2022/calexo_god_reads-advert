@@ -1,22 +1,22 @@
 body {
-  background-color:rgba(55, 64, 85, 0.9);opacity:2;
+  background-color:maroon;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
 }
 
   h1 {
-        font-family:Qwitcher Grypen;font-size:60px;
+        font-family:Qwitcher Grypen;font-size:63px;
         color:white;opacity: 2;
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
-        padding-left:5px;
-        background: transparent;
+        padding-left:30px;
+        
       }  
 
 h2 {
-  font-family:Qwitcher Grypen;font-size:50px;
+  font-family:Qwitcher Grypen;font-size:52px;
   color:white;opacity:2;
   text-align:center;
   margin-top:-1px;
@@ -62,7 +62,7 @@ h2 {
 
   .text {
 
-    font-family:"Dancing Script";
+    font-family:60px;
     position: absolute;
     margin-top: -334px;
     margin-left: 628px;
