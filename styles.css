@@ -7,7 +7,7 @@ body {
 
   h1 {
         font-family:Qwitcher Grypen;font-size:63px;
-        color:maroon;opacity: 2;
+        color:black;opacity: 2;
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
@@ -17,7 +17,7 @@ body {
 
 h2 {
   font-family:Qwitcher Grypen;font-size:52px;
-  color:maroon;opacity:2;
+  color:black;opacity:2;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
@@ -51,11 +51,11 @@ h2 {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid white;
+    border:5px solid yellow;
     opacity:2;
-    border-radius:5px solid white;
-    background-color :marron;
-    color:maroon;
+    border-radius:5px solid yellow;
+    background-color:yellow;
+    color:black;
     opacity: 2;
     width:100px;
    }
