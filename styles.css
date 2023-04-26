@@ -1,6 +1,6 @@
 body {
 
-  background-color:white;opacity:2;
+  background-color:burlywood;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
@@ -52,10 +52,10 @@ h2 {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid white;
+    border:5px solid burlywood;
     opacity:2;
-    border-radius:5px solid white;
-    background-color:white;
+    border-radius:5px solid burlywood;
+    background-color:burlywood;
     color:maroon;
     opacity: 2;
     width:100px;
