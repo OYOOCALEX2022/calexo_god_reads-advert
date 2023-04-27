@@ -1,6 +1,6 @@
 body {
 
-  background-color:burlywood;opacity:2;
+  background-color:white;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
@@ -8,7 +8,7 @@ body {
 
   h1 {
         font-family:Qwitcher Grypen;font-size:63px;
-        color:maroon;opacity: 2;
+        color:black;opacity: 2;
         margin-bottom:0px;
         text-align:center;
         margin-top: 0px;
@@ -18,7 +18,7 @@ body {
 
 h2 {
   font-family:Qwitcher Grypen;font-size:52px;
-  color:maroon;opacity:2;
+  color:black;opacity:2;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
@@ -52,11 +52,11 @@ h2 {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid burlywood;
+    border:5px solid white;
     opacity:2;
-    border-radius:5px solid burlywood;
-    background-color:burlywood;
-    color:maroon;
+    border-radius:5px solid white;
+    background-color:white;
+    color:black;
     opacity: 2;
     width:100px;
    }
