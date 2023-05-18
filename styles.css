@@ -17,12 +17,12 @@ body {
       }  
 
 h2 {
-  font-family:Qwitcher Grypen;font-size:52px;
+  
   color:navy;opacity:2;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
-  margin-left:145px;
+  font-family:Qwitcher Grypen;font-size:52px;margin-left:145px;
 }
 
  
