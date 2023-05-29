@@ -1,30 +1,31 @@
 body {
 
-  background-color:maroon;opacity:2;
+  background-color:white;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
 }
 
   h1 {
-        font-family:Qwitcher Grypen;font-size:63px;
-        color:white;opacity: 2;
-        margin-bottom:0px;
+
+        font-family:Qwitcher Grypen;font-size:50px;
+        color:maroon;opacity: 2;
+        margin-bottom:-18px;
         text-align:center;
-        margin-top: 0px;
-        padding-left:10px;
+        margin-top:-2px;
+        padding-left:193px;
         opacity: 2;
         
       }  
 
 h2 {
   
-  color:white;opacity:2;
+  color:maroon;opacity:2;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
   font-family:Qwitcher Grypen;font-size:27px;margin-left:145px;
-  padding-left:143px;
+  padding-left:67px;
 }
 
  
@@ -34,7 +35,7 @@ h2 {
     height:300px;
     padding-left:167px;
     padding-right:300px;
-    padding-top: 5px;
+    padding-top: 15px;
     padding-bottom:0px;
     
  }            
@@ -49,26 +50,28 @@ h2 {
     margin-left: 10px;
     float:left;
     height:70px;
-    margin-top:90px;
+    margin-top:15px;
     margin-bottom:100px;
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid maroon;
+    border:5px solid white;
     opacity:2;
-    border-radius:5px solid maroon;
-    background-color:maroon;
-    color:white;
+    border-radius:5px solid white;
+    background-color:white;
+    color:maroon;
     opacity: 2;
-    width:100px;
+    width:70px;
    }
 
   .text {
 
-    font-family:60px;
-    position: absolute;
-    margin-top: -280px;
-    margin-left: 715px;
+      font-family:60px;
+      position: absolute;
+      margin-top: -285px;
+      margin-left: 628px;
+      padding-bottom: 35px;
   
-
-  }
+    }
+  
+ 
