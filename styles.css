@@ -26,6 +26,7 @@ h2 {
   margin-bottom:-2px;
   font-family:Qwitcher Grypen;font-size:27px;margin-left:145px;
   padding-left:67px;
+
 }
 
  
@@ -38,7 +39,9 @@ h2 {
     padding-top: 15px;
     padding-bottom:0px;
     
- }            
+ } 
+ 
+ 
  img {
   opacity: 2.5;
 }
@@ -62,6 +65,7 @@ h2 {
     color:maroon;
     opacity: 2;
     width:70px;
+
    }
 
   .text {
