@@ -1,6 +1,6 @@
 body {
 
-  background-color:black;opacity:2;
+  background-color:white;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
@@ -8,35 +8,42 @@ body {
 
   h1 {
 
-        font-family:Qwitcher Grypen;font-size:50px;
-        color:yellow;opacity: 2;
-        margin-bottom:-18px;
+        font-family:Qwitcher Grypen;font-size:60px;
+        color:maroon;opacity: 2;
         text-align:center;
-        margin-top:-2px;
+        margin-top:-20px;
         padding-left:193px;
-        opacity: 2;
-        
+        opacity:2;
+        margin-bottom:-20px;
       }  
 
 h2 {
   
-  color:yellow;opacity:2;
+  color:maroon;opacity:2;
+  font-weight:bold;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-2px;
-  font-family:Qwitcher Grypen;font-size:27px;margin-left:145px;
-  padding-left:67px;
+  font-family:Qwitcher Grypen;font-size:35px;margin-left:145px;
+  padding-left:48px;
 
 }
 
- 
+p {
+  font-family:Qwitcher Grypen;
+  color: maroon;
+  font-weight:bold;
+  margin-top:-6px;
+  font-size: 24px;
+  padding-left:253px;
+}
   .image {
 
     width:300px;
     height:300px;
     padding-left:167px;
     padding-right:300px;
-    padding-top: 15px;
+    padding-top: 2px;
     padding-bottom:0px;
     
  } 
@@ -52,17 +59,17 @@ h2 {
 
     margin-left: 10px;
     float:left;
-    height:70px;
+    height:62px;
     margin-top:15px;
     margin-bottom:100px;
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid black;
+    border:5px solid white;
     opacity:2;
-    border-radius:5px solid black;
-    background-color:black;
-    color:yellow;
+    border-radius:5px solid white;
+    background-color:white;
+    color:maroon;
     opacity: 2;
     width:70px;
 
