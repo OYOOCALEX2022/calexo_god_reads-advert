@@ -1,6 +1,6 @@
 body {
 
-  background-color:white;opacity:2;
+  background-color:burlywood;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
@@ -23,19 +23,30 @@ h2 {
   font-weight:bold;
   text-align:center;
   margin-top:-1px;
+  margin-bottom:-10px;
+  font-family:Qwitcher Grypen;font-size:40px;margin-left:145px;
+  padding-left:65px;
+
+}
+h3 {
+  
+  color:maroon;opacity:2;
+  font-weight:bolder;
+  text-align:center;
+  margin-top:-30px;
   margin-bottom:-2px;
-  font-family:Qwitcher Grypen;font-size:35px;margin-left:145px;
-  padding-left:48px;
+  font-family:Qwitcher Grypen;font-size:25px;margin-left:145px;
+  padding-left:65px;
 
 }
 
 p {
   font-family:Qwitcher Grypen;
-  color: maroon;
-  font-weight:bold;
-  margin-top:-6px;
+  color: black;
+  font-weight:bolder;
+  margin-top:-30px;
   font-size: 24px;
-  padding-left:253px;
+  padding-left:350px;
 }
   .image {
 
@@ -65,10 +76,10 @@ p {
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid white;
+    border:5px solid burlywood;
     opacity:2;
-    border-radius:5px solid white;
-    background-color:white;
+    border-radius:5px solid burlywood;
+    background-color:burlywood;
     color:maroon;
     opacity: 2;
     width:70px;
