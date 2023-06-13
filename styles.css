@@ -1,6 +1,6 @@
 body {
 
-  background-color:burlywood;opacity:2;
+  background-color:white;opacity:2;
   font-family: "Open Sans", sans-serif;
   text-align:center;
   
@@ -9,7 +9,7 @@ body {
   h1 {
 
         font-family:Qwitcher Grypen;font-size:60px;
-        color:maroon;opacity: 2;
+        color:black;opacity: 2;
         text-align:center;
         margin-top:-20px;
         padding-left:193px;
@@ -19,30 +19,30 @@ body {
 
 h2 {
   
-  color:maroon;opacity:2;
+  color:black;opacity:2;
   font-weight:bold;
   text-align:center;
   margin-top:-1px;
   margin-bottom:-10px;
-  font-family:Qwitcher Grypen;font-size:40px;margin-left:145px;
-  padding-left:65px;
+  font-family:Qwitcher Grypen;font-size:35px;margin-left:145px;
+  padding-left:44px;
 
 }
 h3 {
   
-  color:maroon;opacity:2;
+  color:black;opacity:2;
   font-weight:bolder;
   text-align:center;
   margin-top:-30px;
   margin-bottom:-2px;
   font-family:Qwitcher Grypen;font-size:25px;margin-left:145px;
-  padding-left:65px;
+  padding-left:100px;
 
 }
 
 p {
   font-family:Qwitcher Grypen;
-  color: black;
+  color: white;
   font-weight:bolder;
   margin-top:-30px;
   font-size: 24px;
@@ -70,19 +70,19 @@ p {
 
     margin-left: 10px;
     float:left;
-    height:62px;
+    height:55px;
     margin-top:15px;
     margin-bottom:100px;
     margin:20px;
     font-size:20px;
     font-weight:light;
-    border:5px solid burlywood;
+    border:5px solid white;
     opacity:2;
-    border-radius:5px solid burlywood;
-    background-color:burlywood;
-    color:maroon;
+    border-radius:5px solid white;
+    background-color:white;
+    color:black;
     opacity: 2;
-    width:70px;
+    width:61px;
 
    }
 
